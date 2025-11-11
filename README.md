@@ -122,6 +122,9 @@ After execution:
 D:0x40H:
 ![WhatsApp Image 2025-11-11 at 19 38 03_3b713e73](https://github.com/user-attachments/assets/9f2db789-2211-47cc-afa6-34398ae79915)
 
+
+![WhatsApp Image 2025-11-11 at 20 43 14_3239de58](https://github.com/user-attachments/assets/5f1ae44e-b47d-4ab7-949f-0f786ca51f03)
+
 **Result:**
 
 Thus the sorting of given data was done using 8051 keil and shown the output.
